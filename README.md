@@ -1,4 +1,4 @@
-# Blinkit EDA And Interactive Visualization Project Using MS Excel
+# Blinkit EDA And Interactive Dashboard Project Using MS Excel
 <br>
 
 ### Project Overview
