@@ -1,4 +1,15 @@
-# Blinkit EDA And Interactive Dashboard Project Using MS Excel
+# BLINKIT EDA And Interactive Dashboard Project Using MS Excel
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Project Objectives](#project-objectives)
+- [Dataset](#dataset)
+- [Key Performance Indicators (KPIs)](#key-performance-indicators-(kpis))
+- [Business Questions and Visualization Requirements](#business-questions-and-visualization-requirements)
+- [Solution Sheets](#solution-sheets)
+- [Tools and Technologies](#tools-and-technologies)
+
 <br>
 
 ### Project Overview
