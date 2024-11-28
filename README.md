@@ -3,14 +3,14 @@
 
 ### Project Overview
 
-BlinkIT is an Indian grocery app offering a variety of products to its users. This project involves conducting a comprehensive analysis of BlinkIT's grocery data to derive actionable insights that can inform business decisions and improve operational efficiency. The dataset aims to optimize its sales performance, enhance customer satisfaction, and improve inventory distribution.
+Blinkit is an Indian grocery app offering a variety of products to its users. This project involves conducting a comprehensive analysis of BlinkIT's grocery data to derive actionable insights that can inform business decisions and improve operational efficiency. The dataset aims to optimize its sales performance, enhance customer satisfaction, and improve inventory distribution.
 
 <br>
 
 ### Project Objectives
 
 - Clean and preprocess the raw dataset for analysis.
-- Address key business questions related to BlinkIT's performance.
+- Address key business questions related to Blinkit's performance.
 - Leverage Key Performance Indicators like Total Sales, Average Sales, Number of Items and Average Rating to measure and monitor business performance effectively.
 - Develop a comprehensive and interactive dashboard for streamlined decision-making.
 
@@ -18,14 +18,14 @@ BlinkIT is an Indian grocery app offering a variety of products to its users. Th
 
 ### Dataset
 
-- Source: [blinkit dataset](https://mega.nz/file/NtBi1SQY#Nk3tj7-uO_Q0Gu7s7yVpbT06gAKrISAxeCWpjTe2Mnc) Contains unprocessed data from Blinkit.
+- Source: [Blinkit Dataset](https://mega.nz/file/NtBi1SQY#Nk3tj7-uO_Q0Gu7s7yVpbT06gAKrISAxeCWpjTe2Mnc) Contains unprocessed data from Blinkit.
 - No of Columns: 12 columns.
 - No of Rows: 8525 rows.
 
 <br>
 
 ### Key Performance Indicators (KPIs)
-The following KPIs are identified to measure BlinkIT's performance:
+The following KPIs are identified to measure Blinkit's performance:
 
 - Total Sales: The overall revenue generated from all items sold.
 - Average Sales: The average revenue per sale.
