@@ -18,7 +18,7 @@ BlinkIT is an Indian grocery app offering a variety of products to its users. Th
 
 ### Dataset
 
-- Source: [blinkit raw_data.csv](https://docs.google.com/spreadsheets/d/1iXf_q2DiLG6LBv2Wg_e4zOZmoi4SHs5k/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true) Contains unprocessed data from BlinkIT.
+- Source: [blinkit dataset](https://mega.nz/file/NtBi1SQY#Nk3tj7-uO_Q0Gu7s7yVpbT06gAKrISAxeCWpjTe2Mnc) Contains unprocessed data from BlinkIT.
 - No of Columns: 12 columns.
 - No of Rows: 8525 rows.
 
@@ -71,14 +71,14 @@ To address the business requirements, the following questions and visualization 
 ### Solution Sheets
 **1. Clean Data Sheet**
 - Purpose: A refined dataset created from the raw data by addressing missing values, duplicates, and formatting errors.
-- Use: Foundation for all analysis.
+- Use: Foundation for all analysis and visualization.
 
 **2. Analysis Sheet**
 - Purpose: Contains derived metrics, trends, and insights.
 - Key Features:
   - Calculations for Total Sales, Average Sales, Number of Items, and Average Rating.
-  - Detailed analysis for tat Content, outlet type, location, and other dimensions. Click [blinkit data_analysis](https://docs.google.com/spreadsheets/d/1iXf_q2DiLG6LBv2Wg_e4zOZmoi4SHs5k/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true) to view Analysis 
-- Use: Foundation for all visualization.
+  - Detailed analysis for fat Content, outlet type, location, and other dimensions.
+- [click to view blinkit analysis](https://mega.nz/file/9xgQSQSY#SmwOWWXWa9xnUyhY0FGF4Sm4jl3LUw4qQUhz087jJdY) 
 
 **3. Dashboard**
 - Purpose: Visualizes insights for better decision-making.
