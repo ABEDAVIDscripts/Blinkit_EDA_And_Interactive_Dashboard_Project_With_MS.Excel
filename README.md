@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [Project Objectives](#project-objectives)
 - [Dataset](#dataset)
-- [Key Performance Indicators (KPIs)](#key-performance-indicators-(kpis))
+- [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
 - [Business Questions and Visualization Requirements](#business-questions-and-visualization-requirements)
 - [Solution Sheets](#solution-sheets)
 - [Tools and Technologies](#tools-and-technologies)
