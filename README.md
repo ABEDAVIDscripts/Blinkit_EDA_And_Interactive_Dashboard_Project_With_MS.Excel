@@ -1,4 +1,4 @@
-# Blinkit_Project
+# Blinkit EDA And Interactive Visualization Project Using MS Excel
 <br>
 
 ### Project Overview
@@ -18,7 +18,7 @@ BlinkIT is an Indian grocery app offering a variety of products to its users. Th
 
 ### Dataset
 
-- Source: [blinkit dataset](https://mega.nz/file/NtBi1SQY#Nk3tj7-uO_Q0Gu7s7yVpbT06gAKrISAxeCWpjTe2Mnc) Contains unprocessed data from BlinkIT.
+- Source: [blinkit dataset](https://mega.nz/file/NtBi1SQY#Nk3tj7-uO_Q0Gu7s7yVpbT06gAKrISAxeCWpjTe2Mnc) Contains unprocessed data from Blinkit.
 - No of Columns: 12 columns.
 - No of Rows: 8525 rows.
 
@@ -78,11 +78,12 @@ To address the business requirements, the following questions and visualization 
 - Key Features:
   - Calculations for Total Sales, Average Sales, Number of Items, and Average Rating.
   - Detailed analysis for fat Content, outlet type, location, and other dimensions.
-- [click to view blinkit analysis](https://mega.nz/file/9xgQSQSY#SmwOWWXWa9xnUyhY0FGF4Sm4jl3LUw4qQUhz087jJdY) 
+- [View Blinkit Analysis](https://mega.nz/file/NtBi1SQY#Nk3tj7-uO_Q0Gu7s7yVpbT06gAKrISAxeCWpjTe2Mnc) 
 
 **3. Dashboard**
 - Purpose: Visualizes insights for better decision-making.
 - Visualizations: Includes Donut Charts, bar Charts, Area, and Matrix Cards.
+- [View Interactive Dashboard](https://mega.nz/file/Y1xHDRzA#TVfurCJcjS7mm-KCvyoIftM9WVhTyebHWev6Nn_M-EU) 
 
 <br>
 
