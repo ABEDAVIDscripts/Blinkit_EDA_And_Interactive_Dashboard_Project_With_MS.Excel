@@ -85,7 +85,7 @@ To address the business requirements, the following questions and visualization 
 - Use: Foundation for all analysis and visualization.
 
 **2. Analysis Sheet**
-- Purpose: Contains derived metrics, trends, and insights.
+- Purpose: Contains derived metrics, trends, and creating visualization insights.
 - Key Features:
   - Calculations for Total Sales, Average Sales, Number of Items, and Average Rating.
   - Detailed analysis for fat Content, outlet type, location, and other dimensions.
