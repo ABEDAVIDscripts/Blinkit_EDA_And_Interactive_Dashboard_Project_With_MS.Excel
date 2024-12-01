@@ -1,4 +1,4 @@
-# BLINKIT EDA And Interactive Dashboard Project Using MS Excel
+# BLINKIT EDA And Interactive Dashboard Project With MS Excel
 
 ## Table of Contents
 
