@@ -89,12 +89,12 @@ To address the business requirements, the following questions and visualization 
 - Key Features:
   - Calculations for Total Sales, Average Sales, Number of Items, and Average Rating.
   - Detailed analysis for fat Content, outlet type, location, and other dimensions.
-- [View Blinkit Analysis](https://mega.nz/file/NtBi1SQY#Nk3tj7-uO_Q0Gu7s7yVpbT06gAKrISAxeCWpjTe2Mnc) 
+- [View Blinkit Analysis](https://mega.nz/file/skRVmJSK#_e4xtTj8KFrs0ji-WumNdCZP25FMuvZvHuhsM5L8F30) 
 
 **3. Dashboard**
 - Purpose: Visualizes insights for better decision-making.
 - Visualizations: Includes Donut Charts, bar Charts, Area, and Matrix Cards.
-- [View Interactive Dashboard](https://mega.nz/file/Y1xHDRzA#TVfurCJcjS7mm-KCvyoIftM9WVhTyebHWev6Nn_M-EU) 
+- [View Interactive Dashboard](https://mega.nz/file/Y1xHDRzA#TVfurCJcjS7mm-KCvyoIftM9WVhTyebHWev6Nn_M-EU)
 
 <br>
 
